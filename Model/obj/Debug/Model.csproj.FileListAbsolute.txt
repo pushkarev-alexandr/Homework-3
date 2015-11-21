@@ -1,0 +1,5 @@
+C:\Users\Александр\Desktop\Homework-3Console\Homework-3\Model\bin\Debug\Model.dll
+C:\Users\Александр\Desktop\Homework-3Console\Homework-3\Model\bin\Debug\Model.pdb
+C:\Users\Александр\Desktop\Homework-3Console\Homework-3\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Desktop\Homework-3Console\Homework-3\Model\obj\Debug\Model.dll
+C:\Users\Александр\Desktop\Homework-3Console\Homework-3\Model\obj\Debug\Model.pdb
